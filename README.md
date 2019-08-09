@@ -1,8 +1,1 @@
-In this scenario, create two components, say component1 and component2. Component1 is a parent of
-component2.
-
-A user should be able to enter text in the .html template file of component1. The template of
-component2 should display the text.
-
-Create the task in a scenario3 folder of your project. All files of the components should be inside
-the scenario3 folder.
+In this scenario, create a component, say component1. A user should be able to enter text in the .html template file of the component. The template should display the text as the user types. Create the task in a scenario2 folder of your project. All files of the component should be inside the scenario2 folder.
